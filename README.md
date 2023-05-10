@@ -1,4 +1,4 @@
-# *Hello! I'm Jeremy.* <img height="80px" style="background: blue" src="https://em-content.zobj.net/source/microsoft-teams/337/waving-hand_1f44b.png">
+# *Hello! I'm Jeremy.* <img height="80px" src="https://em-content.zobj.net/source/microsoft-teams/337/waving-hand_1f44b.png">
 
 ### 📬  Find me at
 [![Github Badge](https://img.shields.io/badge/Github-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JeremyDevCode/) [![LinkedIn Badge](https://img.shields.io/badge/-Linkedin-blue?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/jeremydeveloper/)](https://www.linkedin.com/in/jeremydeveloper/) [![Website Badge](https://img.shields.io/badge/-Website-ffb200?style=for-the-badge&logo=google-chrome&logoColor=white&link=https://jeremyportfolio.vercel.app)](https://jeremyportfolio.vercel.app) [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=for-the-badge&logo=Twitter&logoColor=white&link=ttps://twitter.com/jeremyjsx)](https://twitter.com/jeremyjsx)
