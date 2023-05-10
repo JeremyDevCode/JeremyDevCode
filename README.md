@@ -18,7 +18,7 @@
 
  > **📝  Latest Blog Posts** 
  ```ini
- [Working on my blog in progress...]
+[Building the blog...]
  ```
  **⭐  My Github Stats** <img height="40px" src="https://github.com/images/mona-whisper.gif">
  
