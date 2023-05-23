@@ -6,7 +6,7 @@
  I'm a web developer from Ecuador, passionate about **frontend development**. Looking to learn and work with new technologies. I love creating interesting and amazing products that serve a great purpose.
 
 -   💼  I'm currently looking for a **job**
--   🌱  I’m currently working on my  **[tic-tac-toe](https://github.com/JeremyDevCode/tic-tac-toe")**
+-   🌱  I’m currently working on my  **[Learning Vue](https://github.com/JeremyDevCode/learningvue)**
 -   💬  I like to talk about  **Front-end**
 -   📖  Learn more about my projects on my  **[Portfolio](https://jeremyportfolio.vercel.app/)**
 -   📫  Ask me anything on my social media
