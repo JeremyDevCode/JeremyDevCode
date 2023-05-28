@@ -22,4 +22,4 @@
  ```
  **⭐  My Github Stats** <img height="40px" src="https://github.com/images/mona-whisper.gif">
  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jeremydevcode)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jeremydevcode&show_icons=true&theme=dark)
