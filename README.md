@@ -10,7 +10,7 @@
 -   💬  I like to talk about  **Front-end**
 -   📖  Learn more about my projects on my  **[Portfolio](https://jeremyportfolio.vercel.app/)**
 -   📫  Ask me anything on my social media
--   💻  Connect with me on  **[LinkedIn](https://www.linkedin.com/in/jeremydeveloper/ "Jeremy Mosquera LinkedIn")**
+-   💻  Connect with me on  **[LinkedIn](https://www.linkedin.com/in/jeremydev/ "Jeremy Mosquera LinkedIn")**
 - :cloud: **Fun fact:** Big Fan of the  :cloud:  emoji
  
  :page_with_curl: I'm currently working with:
