@@ -5,16 +5,16 @@
 ### A little about me... :cloud:
  I'm a web developer from Ecuador, passionate about **frontend development**. Looking to learn and work with new technologies. I love creating interesting and amazing products that serve a great purpose.
 
--   💼  I’m currently working as Associated Frontend Engineer at **TRD**
+-   💼  I’m currently working as Software Engineer at **TRD**
 -   🌱  I’m currently working on my **private cool stuff**
--   💬  I like to talk about  **Front-end**
+-   💬  I like to talk about  **Backend**
 -   📖  Learn more about my projects on my  **[Portfolio](https://jeremyportfolio.vercel.app/)**
 -   📫  Ask me anything on my social media
 -   💻  Connect with me on  **[LinkedIn](https://www.linkedin.com/in/jeremydev/ "Jeremy Mosquera LinkedIn")**
 - :cloud: **Fun fact:** Big Fan of the  :cloud:  emoji
  
  :page_with_curl: I'm currently working with:
-<br><br>![Next](https://img.shields.io/badge/NextJS-000000?style=for-the-badge&logo=nextdotjs&logoColor=white) ![Flutter](https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge)   ![Typescript](https://img.shields.io/badge/Typescript-3178c6?style=for-the-badge&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)   ![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+<br><br>![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Go](https://img.shields.io/badge/golang-blue?style=for-the-badge&logo=go&logoColor=white) ![Next](https://img.shields.io/badge/NextJS-000000?style=for-the-badge&logo=nextdotjs&logoColor=white) ![Flutter](https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge)   ![Typescript](https://img.shields.io/badge/Typescript-3178c6?style=for-the-badge&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)   ![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
  > **📝  Latest Blog Posts** 
  ```ini
