@@ -19,6 +19,5 @@
  ```ini
 [Building the blog...]
  ```
- **⭐  My Github Stats** <img height="40px" src="https://github.com/images/mona-whisper.gif">
- 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jeremydevcode&show_icons=true&theme=dark)
+<img height="40px" src="https://github.githubassets.com/assets/mona-hifive-loop-once-8c78f1af57d0.gif">
+
